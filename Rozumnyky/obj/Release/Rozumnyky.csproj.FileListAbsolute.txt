@@ -1,0 +1,27 @@
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\bin\Release\Rozumnyky.exe.config
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\bin\Release\Rozumnyky.exe
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\bin\Release\Rozumnyky.pdb
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Release\Rozumnyky.csprojResolveAssemblyReference.cache
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Release\Rozumnyky.Form1.resources
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Release\Rozumnyky.Form2.resources
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Release\Rozumnyky.Form3.resources
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Release\Rozumnyky.Form4.resources
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Release\Rozumnyky.Properties.Resources.resources
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Release\Rozumnyky.csproj.GenerateResource.Cache
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Release\Rozumnyky.exe
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Release\Rozumnyky.pdb
+E:\University\Rozumnyky\bin\Release\Rozumnyky.exe.config
+E:\University\Rozumnyky\obj\Release\Rozumnyky.exe
+E:\University\Rozumnyky\obj\Release\Rozumnyky.pdb
+E:\University\Rozumnyky\bin\Release\Rozumnyky.exe
+E:\University\Rozumnyky\bin\Release\Rozumnyky.pdb
+E:\University\Rozumnyky\obj\Release\Rozumnyky.csprojResolveAssemblyReference.cache
+E:\University\Rozumnyky\obj\Release\Rozumnyky.Form1.resources
+E:\University\Rozumnyky\obj\Release\Rozumnyky.Form2.resources
+E:\University\Rozumnyky\obj\Release\Rozumnyky.Form3.resources
+E:\University\Rozumnyky\obj\Release\Rozumnyky.Form4.resources
+E:\University\Rozumnyky\obj\Release\Rozumnyky.Properties.Resources.resources
+E:\University\Rozumnyky\obj\Release\Rozumnyky.csproj.GenerateResource.Cache
+D:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\bin\Release\Rozumnyky.exe.config
+D:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Release\Rozumnyky.exe
+D:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Release\Rozumnyky.pdb

@@ -1,0 +1,36 @@
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\bin\Debug\Rozumnyky.exe.config
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\bin\Debug\Rozumnyky.exe
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\bin\Debug\Rozumnyky.pdb
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.csprojResolveAssemblyReference.cache
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.Form1.resources
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.Properties.Resources.resources
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.csproj.GenerateResource.Cache
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.exe
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.pdb
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.Form2.resources
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.Form3.resources
+E:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.Form4.resources
+E:\University\Rozumnyky\bin\Debug\Rozumnyky.exe.config
+E:\University\Rozumnyky\obj\Debug\Rozumnyky.exe
+E:\University\Rozumnyky\obj\Debug\Rozumnyky.pdb
+E:\University\Rozumnyky\bin\Debug\Rozumnyky.exe
+E:\University\Rozumnyky\bin\Debug\Rozumnyky.pdb
+E:\University\Rozumnyky\obj\Debug\Rozumnyky.csprojResolveAssemblyReference.cache
+E:\University\Rozumnyky\obj\Debug\Rozumnyky.Form1.resources
+E:\University\Rozumnyky\obj\Debug\Rozumnyky.Form2.resources
+E:\University\Rozumnyky\obj\Debug\Rozumnyky.Form3.resources
+E:\University\Rozumnyky\obj\Debug\Rozumnyky.Form4.resources
+E:\University\Rozumnyky\obj\Debug\Rozumnyky.Properties.Resources.resources
+E:\University\Rozumnyky\obj\Debug\Rozumnyky.csproj.GenerateResource.Cache
+D:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\bin\Debug\Rozumnyky.exe.config
+D:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.exe
+D:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.pdb
+D:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\bin\Debug\Rozumnyky.exe
+D:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\bin\Debug\Rozumnyky.pdb
+D:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.csprojResolveAssemblyReference.cache
+D:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.Form1.resources
+D:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.Form2.resources
+D:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.Form3.resources
+D:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.Form4.resources
+D:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.Properties.Resources.resources
+D:\University\2_grade\2 семестр\ООП\Курсова\Rozumnyky\obj\Debug\Rozumnyky.csproj.GenerateResource.Cache
